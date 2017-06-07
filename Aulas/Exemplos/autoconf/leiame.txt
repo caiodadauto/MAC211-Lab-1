@@ -1,0 +1,8 @@
+Roteiro para a execucao deste exemplo:
+
+1) Execute o programa 'autoconf' que usará como entrada o arquivo configure.ac e gerara como saída o script 'configure' 
+
+2) Execute o script 'configure', que gerará o arquivo Makefile (usando como esqueleto o Makefile.in)
+
+3) Execute o comando 'make', que gerará o executável do programa para aproximação do valor de pi
+
